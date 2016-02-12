@@ -1,0 +1,22 @@
+{
+  "name": "tammergalalportfolio",
+  "version": "1.0.0",
+  "description": "This is my portfolio for the world! showcasing my abilities as a developer.",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+    "\u001b[2~\u001b[2~https://github.com/tammerg/TGPortfolio.git"
+  ],
+  "author": "Tammer Galal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "jquery": "^2.2.0",
+    "materialize-css": "^0.97.5",
+    "session": "^0.1.0"
+  }
+}
